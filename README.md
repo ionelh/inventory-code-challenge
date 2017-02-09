@@ -1,2 +1,4 @@
-# inventory-code-challenge
-A simple inventory app I built as a code challenge, using the react / redux / webpack boilerplate on my Github account.
+# Simple inventory (code challenge)
+npm install
+npm start
+localhost:5000
